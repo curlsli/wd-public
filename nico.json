@@ -1,0 +1,15 @@
+{
+  "source": "content",
+  "output": "_site",
+  "permalink": "{{directory}}/{{filename}}.html",
+  "sitename": "Web Developer",
+  "theme": "_theme",
+  "github": "https://github.com/alipay/wd-public",
+  "writers": [
+    "nico.PageWriter",
+    "nico.PostWriter",
+    "nico.FileWriter",
+    "nico.ArchiveWriter",
+    "nico.StaticWriter"
+  ]
+}

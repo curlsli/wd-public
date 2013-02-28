@@ -1,5 +1,10 @@
 # 基础技术组产品快报-第2期
 
+- pubdate: 2012-11-18
+
+-----
+
+
 ## 一、SeaJS 发布 1.3.0
 
 <a href="https://github.com/seajs/seajs/issues/225"><img src="http://img04.taobaocdn.com/tps/i4/T1ZyUdXi0fXXboRtP7-520-162.jpg" /></a>
