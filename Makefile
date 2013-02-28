@@ -9,7 +9,7 @@ create:
 build:
 	@nico build
 
-name = wd-public
+name = news
 upload:
 	@curl -i -F name=${name} -F file=@${tmpfile} http://site.alipay.im/repository/upload/site
 
